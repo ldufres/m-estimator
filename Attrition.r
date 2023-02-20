@@ -1,4 +1,3 @@
-## run from "MQP Resources" folder
 library(tidyverse)
 
 dat00 <- read_csv("data/DATA20220202_4092.csv",na = c("", "NA","#NULL!"))
