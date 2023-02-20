@@ -1,4 +1,3 @@
-## run from "MQP Resources" folder
 library(tidyverse)
 library(tidyr)
 
